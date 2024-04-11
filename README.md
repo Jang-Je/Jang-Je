@@ -1,5 +1,6 @@
 ### 이건 깃허브 스탯
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang-Je&show_icons=true&theme=dark)
+![](https://raw.githubusercontent.com/Jang-Je/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Jang-Je/github-stats-transparent/output/generated/languages.svg)
 
 ### 이건 백준 티어
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang_je)](https://solved.ac/jang_je/)
